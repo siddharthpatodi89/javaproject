@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "My first Jenkins program" );
+        System.out.println( "Changing in dev branch, to be pushed in sit branch" );
     }
 
 	public int calculateSomething() {
